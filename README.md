@@ -25,11 +25,10 @@ Me motiva aprender constantemente, optimizar código y explorar cómo la intelig
 </div>
 <br>
 
-El proyecto está construido como un **monorepo** conteniendo:
 * **Backend:** Una robusta API REST con **Java, Spring Boot y Spring Security**.
 * **Frontend:** Una SPA interactiva con **React, TypeScript, Vite y Tailwind CSS**.
 
-➡️ **[Explora el repositorio de ReChords para ver el código completo y la documentación.](https://github.com/alanc-sys/rechords)**
+➡️ **[Explora el repositorio de ReChords-Backend para ver el código completo y la documentación.](https://github.com/alanc-sys/rechords)**
 
 ---
 
