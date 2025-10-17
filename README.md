@@ -2,7 +2,7 @@
 
 <p align="center">
   Desarrollador con orientación a <strong>backend (Java/Spring) e inteligencia artificial</strong>.<br>
-  Apasionado por crear soluciones full-stack que conecten la <strong>tecnología y la automatización</strong>.
+  Apasionado por crear soluciones Backend que conecten la <strong>tecnología y la automatización</strong>.
 </p>
 
 ---
