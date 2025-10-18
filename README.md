@@ -20,7 +20,6 @@ Me motiva aprender constantemente, optimizar código y explorar cómo la intelig
 
 <div align="center">
   <a href="https://github.com/alanc-sys/rechords">
-    <img src="URL_DE_TU_GIF_DEMO.gif" alt="ReChords Demo" width="80%"/>
   </a>
 </div>
 <br>
